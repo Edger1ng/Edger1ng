@@ -35,8 +35,8 @@
 - Dell Latitude 3420 — *i5 11th gen / 32 GB RAM @ 3200 MHz / 1 TB NVMe*  
 - Dell Latitude 3410 — *i5 10th gen / 16 GB RAM @ 2400 MHz / 256 GB NVMe*  
 
-🧠 **OS:** Arch Linux (main) • Windows 11 (secondary) • macOS Sonoma (Hackintosh)  
-🌄 **WM/DE:** Hyprland  
+🧠 **OS:** macOS Tahoe (main) • Windows 11 (secondary) • Arch Linux   
+🌄 **WM/DE:** Hyprland(on Linux)  
 🧩 **Editor:** Helix  
 🐟 **Shell:** Fish  
 🎨 **Theme:** Dark, minimal  
@@ -50,13 +50,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edger1ng&show_icons=true&theme=github_dark&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edger1ng&layout=compact&theme=github_dark&hide_border=true)
 
----
-
-### 🌌 Philosophy
-
-> 🧩 *Minimalism isn’t emptiness — it’s precision.*  
-> ⚙️ *Understand the system before you try to fix it.*  
-> ⚡ *Speed is born from clarity, not shortcuts.*
 
 ---
 
